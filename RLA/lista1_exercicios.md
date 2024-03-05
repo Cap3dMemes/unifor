@@ -1,7 +1,7 @@
 
 
 # **UNIFOR**
->.**Disciplina**: Raciocínio logico algorítmico <br>
+>**Disciplina**: Raciocínio logico algorítmico <br>
 >**Orientador**: Prof. Ricardo Carubbi
 
 ## **Lista 1 Exercícios**
